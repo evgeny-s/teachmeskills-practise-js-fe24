@@ -4,7 +4,7 @@
 // 3. Add `dev` script: `webpack-dev-server --mode development`
 // 4. Create `src` folder for entry point
 // 5. Create `index.js` file inside `src` folder
-// 6. Create `index.html` file inside project root folder and include `main.js` script
+// 6. Create `index.html` file inside project root folder and include `index.js` script with <script> element
 // 7. Start build project with the following requirements:
 // - Create simple Quiz application
 // - It should have pre-defined questions - array
