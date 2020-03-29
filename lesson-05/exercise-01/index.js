@@ -4,7 +4,7 @@
 // 3. Add `dev` script: `webpack-dev-server --mode development`
 // 4. Create `index.js` file inside `src` folder
 // 5. Start implementation for the project with the following requirements:
-// - Create simple Quiz application
+// - Create simple Quiz application. Picture is here: ui.jpg
 // - It should have pre-defined questions - array
 // - Answers can be of 2 types: checkbox and radio-buttons
 // - Each question should appear one after another.
