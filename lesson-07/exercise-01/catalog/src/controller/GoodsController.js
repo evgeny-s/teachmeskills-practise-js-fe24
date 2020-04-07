@@ -1,8 +1,15 @@
 import goodsView from './../view/goods.handlebars';
+import GoodsModel from "../model/goodsModel";
 
 class GoodsController {
+  constructor() {
+    this.goodsModel = new GoodsModel();
+  }
+
   render() {
-    return goodsView();
+    const data = this.goodsModel.getData();
+
+    return goodsView({items: data});
   }
 }
 
