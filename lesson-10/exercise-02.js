@@ -5,4 +5,5 @@ Create memory game: https://drive.google.com/open?id=1FKYwz29Y7SPS-u_QW9rpjsmIpL
  - It should have timer.
  - It should calculate amount of clicks
  - It should return result once user finished
+ - This lib can be used for animation: https://github.com/AaronCCWong/react-card-flip
 */
