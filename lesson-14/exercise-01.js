@@ -25,18 +25,18 @@
   - Products: /products
   - MyCart: /cart
 
-3. All components should be available only for authenticated users (add validation)
-
-4. Implement Products component:
+3. Implement Products component:
   - It should pull products from data.json
   - Each item should have `To Cart` button
   - Once user clicked on button - save item to store.
 
-5. Implement MyCart component:
+4. Implement MyCart component:
   - It should have a list of selected products
   - It should be form:
     * Full Name
     * Address
   - It should have "Submit" button.
   - After user submitted form - save data to store.
+
+5. All components should be available only for authenticated users (add validation)
  */
