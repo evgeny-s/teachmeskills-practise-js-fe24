@@ -42,13 +42,13 @@
     6. Implement Delete button
       - Add saga function
       - Add service method for removing article by id
-    6. Implement Edit button
+    7. Implement Edit button
       - Add saga function
       - Add service method for editing article by id (the same ArticleEdit component should be used)
-    7. Add handler for ARTICLE/FETCH_ERROR action.
-    8. Add Comments component to the article
+    8. Add handler for ARTICLE/FETCH_ERROR action.
+    9. Add Comments component to the article
       - It should return list of comments for the specific article.
-    9. Add CommentsForm component to be able to add new component
+    10. Add CommentsForm component to be able to add new component
       - Fields should be used:
         * text
         * articleId
