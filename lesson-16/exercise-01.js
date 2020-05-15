@@ -21,7 +21,8 @@
       - Create CategoryList container
       - Connect container to reducer
     2. Connect List to sagas
-    3. Create Routing for the application:
+    3. Add server pagination (show only 10 items)
+    4. Create Routing for the application:
       - /categories -> CategoryList
       - /category/:id -> CategoryInfo
  */
