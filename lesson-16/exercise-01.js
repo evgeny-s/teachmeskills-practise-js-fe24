@@ -24,5 +24,10 @@
     3. Add server pagination (show only 10 items)
     4. Create Routing for the application:
       - /categories -> CategoryList
-      - /category/:id -> CategoryInfo
+      - /category/:id -> CategoryItem
+    5. Implement CategoryItem:
+      - Fetch data for selected category from server (separate request)
+      - Fetch Tracks data for selected category from server (separate request)
+      - Add form for the Track adding: name, url, duration, categoryId
+      - Edit/Delete for the Track
  */
